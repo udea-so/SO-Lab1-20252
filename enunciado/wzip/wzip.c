@@ -7,6 +7,7 @@
   * soydz.com
 */
 
+
 void read_file(char* name_file, char **buffer, long *size_buffer);
 void write_file(unsigned char *output, size_t output_size);
 void compression_rle(char* buffer, long size, char *last_char, int *last_count, unsigned char **output, size_t *output_size);
