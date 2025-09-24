@@ -1,0 +1,20 @@
+# Binarios/compilados
+wcat
+*.o
+*.exe
+*.out
+
+# Pruebas locales / salidas temporales
+ensayos/
+tests-out/
+
+# Archivos temporales de ejercicio
+file1.txt
+file2.txt
+
+# Configuración del editor/IDE
+.vscode/
+
+# Swap / backups
+*~
+*.swp
